@@ -5,13 +5,13 @@ bio: ""
 interests: []
 social:
   - icon: envelope
-    icon_pack: ai
+    icon_pack: fab
     link: /mailto:vincent.carlino@unine.ch
   - icon: twitter
-    icon_pack: ai
+    icon_pack: fab
     link: https://twitter.com/vincent_ca
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: far
     link: https://scholar.google.com/citations?user=LvArOUgAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
