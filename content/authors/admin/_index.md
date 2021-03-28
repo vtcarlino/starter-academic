@@ -1,5 +1,6 @@
 ---
 role: Post-doctorant en sciences de l'information et de la communication
+avatar_filename: vc_pro.jpg
 bio: ""
 interests: []
 social:
