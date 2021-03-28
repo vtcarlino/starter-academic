@@ -8,7 +8,7 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/vincent_ca
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -19,19 +19,16 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Université de Neuchâtel
+    url: https://www.unine.ch/ajm/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: Doctorat en Sciences de l'information et de la communication
+      institution: Université de Lorraine, UCLouvain
+      year: 2018
+    - course: Master Stratégie et conseil en communication
+      institution: Université de Lorraine
+      year: 2014
 superuser: true
 highlight_name: false
 title: Vincent Carlino
