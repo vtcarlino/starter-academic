@@ -1,18 +1,18 @@
 ---
 role: Post-doctorant en sciences de l'information et de la communication
-avatar_filename: vc_pro.jpg
+avatar_filename: http://www.unine.ch/files/live/sites/ajm/files/ajm_v2/Equipe/Equipe%20AJM/Carlino%20Vincent.jpg
 bio: ""
 interests: []
 social:
   - icon: envelope
-    icon_pack: fas
-    link: /#contact
+    icon_pack: ai
+    link: /mailto:vincent.carlino@unine.ch
   - icon: twitter
-    icon_pack: fab
+    icon_pack: ai
     link: https://twitter.com/vincent_ca
   - icon: graduation-cap
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=LvArOUgAAAAJ&hl=fr
   - icon: github
     icon_pack: fab
     link: https://github.com/vtcarlino
