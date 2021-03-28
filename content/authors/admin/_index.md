@@ -1,10 +1,7 @@
 ---
 role: Post-doctorant en sciences de l'information et de la communication
 bio: ""
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -42,4 +39,4 @@ email: ""
 ---
 Post-doctorant à l'Académie du journalisme et des médias de l'Université de Neuchâtel, mes travaux portent sur les pratiques de communication dans les controverses environnementales, les plateformes numériques et les "fake news".
 
-Je participe actuellement au projet de recherche [Social Networks Architectures of Distinformation 2](https://www.media-initiative.ch/project/sad-ii/).
+Je participe actuellement au projet de recherche [Social Networks Architectures of Disinformation 2](https://www.media-initiative.ch/project/sad-ii/).
