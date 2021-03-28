@@ -1,30 +1,20 @@
 ---
-# Documentation: https://sourcethemes.com/academic/docs/managing-content/
-
-title: "Cap Controverses"
-subtitle: ""
-summary: "Capacité d’agir des publics dans les controverses"
-authors: []
-tags: ["Environnement"]
-categories: []
-date: 2020-05-02T17:22:02+02:00
-lastmod: 2020-05-02T17:22:02+02:00
-featured: false
+summary: Capacité d’agir des publics dans les controverses
 draft: false
-external_link: "http://crem.univ-lorraine.fr/recherche/contrats/direction-par-le-crem#Cap-Controverses"
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder.
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+authors: []
+lastmod: 2020-05-02T17:22:02+02:00
+title: Cap Controverses
+subtitle: ""
+date: 2020-05-02T17:22:02+02:00
+featured: false
+tags:
+  - Environnement
+external_link: http://crem.univ-lorraine.fr/recherche/contrats-recherche/capacite-dagir-des-publics-dans-les-controverses
+projects: []
+categories: []
 image:
   caption: ""
   focal_point: ""
   preview_only: false
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
-projects: []
+  filename: http://crem.univ-lorraine.fr/sites/default/files/users/contrats/cap-controverse.jpg
 ---
