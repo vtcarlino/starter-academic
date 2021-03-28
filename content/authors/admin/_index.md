@@ -16,8 +16,8 @@ social:
     icon_pack: fab
     link: https://github.com/vtcarlino
   - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/
+    icon_pack: ai
+    link: https://www.linkedin.com/in/vincentcarlino/
 organizations:
   - name: Université de Neuchâtel
     url: https://www.unine.ch/ajm/
