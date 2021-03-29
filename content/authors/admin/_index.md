@@ -19,6 +19,11 @@ social:
   - icon: linkedin
     icon_pack: ai
     link: https://www.linkedin.com/in/vincentcarlino/
+  - display:
+      header: false
+    link: https://cv.archives-ouvertes.fr/vincent-carlino
+    icon_pack: ai
+    icon: hal
 organizations:
   - name: Université de Neuchâtel
     url: https://www.unine.ch/ajm/
