@@ -5,10 +5,10 @@ subtitle: ""
 publication_types:
   - "1"
 authors:
-  - Vincent
+  - Vincent Carlino
 publication: Journalisme et plateformes, 2e édition. Information, infomédiation
   et « fake news »
-draft: true
+draft: false
 featured: false
 image:
   filename: featured

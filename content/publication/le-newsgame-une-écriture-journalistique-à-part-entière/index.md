@@ -3,7 +3,7 @@ title: Le newsgame, une écriture journalistique à part entière ?
 publication_types:
   - "1"
 authors:
-  - VincentCarlino
+  - Vincent Carlino
 publication: Les écritures du journalisme
 abstract: "Avec l’analyse du jeu « Opposition radioactive » portant sur les
   déchets nucléaires, cet article propose une approche du jeu vidéo en tant que
