@@ -19,7 +19,8 @@ abstract: >-
 
   Ce rapport s’inscrit dans le cadre du projet de recherche Fake news, publics et journalisme, financé par l’Initiative for Media Innovation, avec également le soutien de l’Office fédéral de la communication. Le projet plus global (https://www.researchfakenews.ch) a été conduit en partenariat avec le média Le Temps.
 
-publication: *IMI / Office fédéral de la communication*
+publication: >-
+  *IMI / Office fédéral de la communication*
 
 draft: false
 featured: false
