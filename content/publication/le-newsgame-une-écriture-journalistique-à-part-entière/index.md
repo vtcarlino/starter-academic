@@ -22,7 +22,7 @@ image:
   filename: featured
   focal_point: Smart
   preview_only: false
-date: 2017-03-01T20:22:00.000Z
+date: 2017-03-24T20:22:00.000Z
 ---
 [Télécharger le PDF](https://hal.univ-lorraine.fr/hal-01497630/document)
 
