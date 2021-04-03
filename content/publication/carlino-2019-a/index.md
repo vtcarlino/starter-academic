@@ -20,7 +20,7 @@ draft: false
 summary: ""
 lastmod: 2020-12-06T18:52:05+01:00
 title: "Traces numériques et engagement du chercheur : contribution à une
-  ét́hique de la communication en régime de controverse"
+  éthique de la communication en régime de controverse"
 subtitle: ""
 publication: "*Les Enjeux de l'information et de la communication*"
 featured: false
@@ -31,6 +31,6 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-date: 2021-04-03T18:34:05.379Z
-publishDate: 2020-12-06T17:52:04.958432Z
+date: 2021-01-31T19:34:00.000Z
+publishDate: 2020-12-06T17:52:04.958Z
 ---
