@@ -34,3 +34,4 @@ image:
 date: 2020-01-31T19:34:00.000Z
 publishDate: 2020-12-06T17:52:04.958Z
 ---
+[Lire sur le site de la revue](https://lesenjeux.univ-grenoble-alpes.fr/2019/dossier/01-traces-numeriques-et-engagement-du-chercheur-contribution-a-une-ethique-de-la-communication-en-regime-de-controverse)
