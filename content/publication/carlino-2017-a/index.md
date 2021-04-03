@@ -7,7 +7,7 @@ abstract: ""
 draft: false
 summary: ""
 lastmod: 2020-12-06T18:52:04+01:00
-title: "Déchets nucléáires : Comprendre l'escalade de violence autour du projet Cigéo"
+title: "Déchets nucléaires : Comprendre l'escalade de violence autour du projet Cigéo"
 subtitle: ""
 publication: "*The Conversation France*"
 featured: false
@@ -19,5 +19,5 @@ image:
   focal_point: ""
   preview_only: false
 date: 2017-08-01
-publishDate: 2020-12-06T17:52:04.354299Z
+publishDate: 2020-12-06T17:52:04.354Z
 ---
