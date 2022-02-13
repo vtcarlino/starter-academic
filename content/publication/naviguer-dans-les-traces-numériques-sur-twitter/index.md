@@ -28,7 +28,7 @@ abstract: Cet article offre un retour d’expérience d’une recherche appliqu�
   réalisées sur les données, mais également la nécessité que les usagers
   disposent d’une culture numérique minimale pour produire des contenus
   éditoriaux fondés sur l'exploitation des traces numériques.
-draft: true
+draft: false
 featured: false
 image:
   filename: https://www.numerev.com/img/ck_6_17_image-20211003183025-2.jpeg
