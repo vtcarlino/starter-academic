@@ -1,7 +1,7 @@
 ---
-title: Naviguer dans les traces numériques sur Twitter
-subtitle: Retour sur la conception d’un dispositif de cartographie de données à
-  destination de journalistes
+title: Naviguer dans les traces numériques sur Twitter. Retour sur la conception
+  d’un dispositif de cartographie de données à destination de journalistes
+subtitle: ""
 publication_types:
   - "2"
 authors:
@@ -33,7 +33,7 @@ featured: false
 image:
   filename: https://www.numerev.com/img/ck_6_17_image-20211003183025-2.jpeg
   focal_point: Smart
-  preview_only: true
+  preview_only: false
 date: 2022-02-13T10:48:55.419Z
 ---
-http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes
+[Lire l'article](http://intelligibilite-numerique.numerev.com/numeros/n-2-2021/2620-naviguer-dans-les-traces-numeriques-sur-twitter-retour-sur-la-conception-d-un-dispositif-de-cartographie-de-donnees-a-destination-de-journalistes)
