@@ -7,8 +7,8 @@ summary: " Accusé de laisser le champ libre à la désinformation sur le Covid-
 
 Un mouvement en ligne de désabonnement de la plateforme avait été suivi sur les réseaux sociaux par plusieurs personnalités et artistes. Le nouveau créneau à succès met les plateformes de streaming face à de nouvelles responsabilités sur la désinformation, à l'instar des réseaux sociaux comme Facebook."
 authors: []
-tags: []
-categories: [interview]
+tags: [interview]
+categories: []
 date: 2022-01-31T14:38:35+01:00
 lastmod: 2022-02-13T14:38:35+01:00
 featured: false
