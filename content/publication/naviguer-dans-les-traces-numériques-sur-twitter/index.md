@@ -11,11 +11,11 @@ authors:
   - Benjamin Ricaud
   - Nicolas Aspert
 author_notes:
-  - Crem
-  - AJM
+  - Crem/CHUS UCO Nantes
+  - AJM Université de Neuchâtel
   - LERASS
-  - UiT
-  - LTS2
+  - UiT Machine Learning Group UiT The Arctic University of Norway
+  - EPFL LTS2
 publication: Intelligibilité du numérique
 abstract: Cet article offre un retour d’expérience d’une recherche appliquée
   pluridisciplinaire pour concevoir un outil d’exploration et de cartographie de
