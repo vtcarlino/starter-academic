@@ -20,7 +20,7 @@ social:
     icon_pack: ai
     link: https://www.linkedin.com/in/vincentcarlino/
   - display:
-    header: false
+#    header: false
     link: https://cv.archives-ouvertes.fr/vincent-carlino
     icon_pack: ai
     icon: hal
