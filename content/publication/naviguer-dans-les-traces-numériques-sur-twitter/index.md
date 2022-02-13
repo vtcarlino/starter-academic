@@ -9,7 +9,7 @@ authors:
   - Nathalie Pignard-Cheynel
   - Lucie Loubère
   - Benjamin Ricaud
-  - NicolasAspert
+  - Nicolas Aspert
 author_notes:
   - Crem
   - AJM
