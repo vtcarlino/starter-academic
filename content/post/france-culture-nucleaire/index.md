@@ -27,7 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-[Écouter l'émission](https://www.franceculture.fr/emissions/le-temps-du-debat/les-termes-du-debat-20-44) du 14 janvier 2022
-
-Le projet en débat de la commission européenne visant à accorder un label "vert" à certaines centrales nucléaires et à gaz a réveillé les controverses autour du nucléaire comme énergie "durable". Comment analyser l'évolution des discours autour du nucléaire ?

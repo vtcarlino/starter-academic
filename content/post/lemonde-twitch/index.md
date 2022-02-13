@@ -27,5 +27,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-Article publié dans [Le Monde Pixels](https://www.lemonde.fr/pixels/article/2022/01/14/sur-twitch-de-domingo-a-hugo-travers-les-streameurs-reinventent-les-codes-des-talk-shows-televises_6109539_4408996.html) le 14 janvier 2022

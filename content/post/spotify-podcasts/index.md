@@ -29,5 +29,3 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
-
-Écouter [l'émission](https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20220131-accus%C3%A9-de-d%C3%A9sinformation-spotify-tente-d-%C3%A9teindre-l-incendie-le-risque-c-est-d-entretenir-un-flou) diffusée le 31 janvier 2022
