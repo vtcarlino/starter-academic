@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Les termes du débat - Nucléaire"
+title: "Les termes du débat : Nucléaire"
 subtitle: "France Culture"
-summary: "Le projet en débat de la commission européenne visant à accorder un label "vert" à certaines centrales nucléaires et à gaz a réveillé les controverses autour du nucléaire comme énergie "durable". Comment analyser l'évolution des discours autour du nucléaire ?"
+summary: "Le projet en débat de la commission européenne visant à accorder un label \"vert\" à certaines centrales nucléaires et à gaz a réveillé les controverses autour du nucléaire comme énergie \"durable\". Comment analyser l'évolution des discours autour du nucléaire ?"
 authors: []
 tags: [interview]
 categories: []
