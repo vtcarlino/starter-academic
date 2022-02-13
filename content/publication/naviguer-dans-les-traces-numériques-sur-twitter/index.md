@@ -4,6 +4,7 @@ title: Naviguer dans les traces numériques sur Twitter. Retour sur la conceptio
 subtitle: ""
 publication_types:
   - "2"
+date : 2021-12-20
 authors:
   - Vincent Carlino
   - Nathalie Pignard-Cheynel
