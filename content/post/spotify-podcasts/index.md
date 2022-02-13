@@ -7,8 +7,8 @@ summary: " Accusé de laisser le champ libre à la désinformation sur le Covid-
 
 Un mouvement en ligne de désabonnement de la plateforme avait été suivi sur les réseaux sociaux par plusieurs personnalités et artistes. Le nouveau créneau à succès met les plateformes de streaming face à de nouvelles responsabilités sur la désinformation, à l'instar des réseaux sociaux comme Facebook."
 authors: []
-tags: [interview]
-categories: []
+tags: []
+categories: [interview]
 date: 2022-01-31T14:38:35+01:00
 lastmod: 2022-02-13T14:38:35+01:00
 featured: false
@@ -29,3 +29,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Écouter [l'émission](https://www.rfi.fr/fr/podcasts/invit%C3%A9-international/20220131-accus%C3%A9-de-d%C3%A9sinformation-spotify-tente-d-%C3%A9teindre-l-incendie-le-risque-c-est-d-entretenir-un-flou) diffusée le 31 janvier 2022

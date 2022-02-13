@@ -5,8 +5,8 @@ title: "Sur Twitch, de Domingo à Hugo Travers, les streameurs réinventent les 
 subtitle: ""
 summary: ""
 authors: []
-tags: [interview]
-categories: []
+tags: []
+categories: [interview]
 date: 2022-02-13T14:49:19+01:00
 lastmod: 2022-02-13T14:49:19+01:00
 featured: false
@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+Article publié dans [Le Monde Pixels](https://www.lemonde.fr/pixels/article/2022/01/14/sur-twitch-de-domingo-a-hugo-travers-les-streameurs-reinventent-les-codes-des-talk-shows-televises_6109539_4408996.html) le 14 janvier 2022
