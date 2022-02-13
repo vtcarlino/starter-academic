@@ -1,12 +1,12 @@
 ---
-role: Post-doctorant en sciences de l'information et de la communication
+role: Enseignant-chercheur en sciences de l'information et de la communication
 avatar_filename: http://www.unine.ch/files/live/sites/ajm/files/ajm_v2/Equipe/Equipe%20AJM/Carlino%20Vincent.jpg
 bio: ""
 interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /mailto:vincent.carlino@unine.ch
+#    link: /mailto:vincent.carlino@unine.ch
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/vincent_ca
@@ -40,6 +40,6 @@ highlight_name: false
 title: Vincent Carlino
 email: ""
 ---
-Post-doctorant à l'Académie du journalisme et des médias de l'Université de Neuchâtel, mes travaux portent sur les pratiques de communication dans les controverses environnementales, les plateformes numériques et les "fake news".
+Maître de conférences à l'[UCO Nantes](https://nantes.uco.fr/), mes travaux portent sur les pratiques de communication dans les controverses environnementales, les plateformes numériques et les "fake news".
 
-Je participe actuellement au projet de recherche [Social Networks Architectures of Disinformation 2](https://www.media-initiative.ch/project/sad-ii/).
+Chercheur titulaire au [Centre Humanités et Sociétés](https://recherche.uco.fr/equipe/chus) et membre associé du [centre de recherche sur les médiations](https://recherche.uco.fr/equipe/chus)
