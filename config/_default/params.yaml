@@ -5,7 +5,7 @@
 
 # Appearance
 
-theme: starter-hugo-academic #minimal
+theme: starter-hugo-academic/theme.toml #minimal
 day_night: true
 font: ''
 font_size: L
